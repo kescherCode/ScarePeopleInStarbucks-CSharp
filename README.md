@@ -7,7 +7,7 @@ that are scared of you being just the 1337 h4x0r you seem to be because you open
 whatever you do in there.
 
 ## What does this even do lol
-Well. It prints spaces, zeroes, ones, 'I's, 'i's, 'O's and 'o's to the screen in a black-on-green font.
+Well. It prints spaces, zeroes, ones, 'I's, 'i's, 'O's and 'o's to the screen in a green-on-black font.
 Because only hackers do that. Haha.
 
 Oh yeah and do whatever you want, this project is licensed under the WTFPL.<br>
