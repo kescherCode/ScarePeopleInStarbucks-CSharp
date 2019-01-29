@@ -4,7 +4,7 @@
   <br>
   Scare people in Starbucks
 </h1>
-<span align="center">or also</span>
+<p align="center">or also</p>
 <h1 align="center">
   Get kicked out of Starbucks
   <br>
