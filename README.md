@@ -1,6 +1,14 @@
-# Scare people in Starbucks
-or also
-# Get kicked out of Starbucks
+<h1 align="center">
+  <br>
+  <img src="ScaredStarbucks.png" width="300" alt="Logo">
+  <br>
+  Scare people in Starbucks
+</h1>
+<span align="center">or also</span>
+<h1 align="center">
+  Get kicked out of Starbucks
+  <br>
+</h1>
 
 This little C# program is just supposed to make fun of people in coffee shops (especially Starbucks...)
 that are scared of you being just the 1337 h4x0r you seem to be because you open your terminal and do
